@@ -1,0 +1,36 @@
+{
+  "map-name": {
+    "left": 613,
+    "top": 22,
+    "width": 421,
+    "height": 47
+  },
+  "team-1": {
+    "player-list": {
+      "left": 452,
+      "top": 193,
+      "width": 237,
+      "height": 313
+    },
+    "stats": {
+      "left": 687,
+      "top": 193,
+      "width": 474,
+      "height": 313
+    }
+  },
+  "team-2": {
+    "player-list": {
+      "left": 401,
+      "top": 611,
+      "width": 288,
+      "height": 313
+    },
+    "stats": {
+      "left": 687,
+      "top": 611,
+      "width": 474,
+      "height": 313
+    }
+  }
+}
